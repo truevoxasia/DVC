@@ -1,0 +1,4 @@
+[core]
+remote = myremote
+['remote "myremote"']
+url = hdfs://mengoon@172.17.0.237
