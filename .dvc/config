@@ -1,0 +1,4 @@
+['remote "hdfs_remote"']
+url = hdfs://localhost:9000/DVC
+[core]
+remote = hdfs_remote
