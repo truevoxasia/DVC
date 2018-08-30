@@ -1,4 +1,0 @@
-['remote "hdfs_remote"']
-url = hdfs://mengoon@localhost:9000/hdfs_storage
-[core]
-remote = hdfs_remote
